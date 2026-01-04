@@ -7,7 +7,19 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif"
+    alt="Showcase Banner"
+    style="
+      max-width: 100%;
+      width: 720px;
+      height: auto;
+      border-radius: 14px;
+      box-shadow: 0 12px 40px rgba(0, 255, 255, 0.35);
+    "
+  />
+</p>
 
 ## 📌 About Me
 - Code is my tool, bugs are my test.
