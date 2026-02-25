@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 <h1 align="center" style="margin-bottom:4px;">
   Hey
-    <img width="220" height="167" alt="image" src="https://github.com/user-attachments/assets/663b05ac-20bd-47fc-b05c-b0c5fab8fba5" />
+    <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/663b05ac-20bd-47fc-b05c-b0c5fab8fba5" />
 
   I'm Headangelly Huy
 </h1>
