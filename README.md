@@ -1,5 +1,5 @@
 <!-- ================= HERO ================= -->
-<h1 align="center">Hey <img src="https://media.giphy.com" width="35"> I'm Headangelly Huy</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com" width="30"> I'm Headangelly Huy</h1>
 
 
 <h3 align="center" style="margin-top:0;">Software Developer</h3>
