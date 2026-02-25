@@ -1,10 +1,6 @@
 <!-- ================= HERO ================= -->
-<h1 align="center" style="margin-bottom:4px;">
-  Hey
-    <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/663b05ac-20bd-47fc-b05c-b0c5fab8fba5" />
+<h1 align="center">Hey <img src="https://media.giphy.com" width="35"> I'm Headangelly Huy</h1>
 
-  I'm Headangelly Huy
-</h1>
 
 <h3 align="center" style="margin-top:0;">Software Developer</h3>
 
