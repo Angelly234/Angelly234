@@ -10,16 +10,6 @@
   />
 </p>
 
-<!-- ================= BANNER ================= -->
-<p align="center" style="margin:12px 0;">
-  <img
-    src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif"
-    width="640"
-    style="max-width:100%; border-radius:12px; box-shadow:0 10px 28px rgba(0,255,255,.35);"
-  />
-</p>
-
----
 
 ## 📌 About Me
 - Code is my tool. Bugs are validation.
