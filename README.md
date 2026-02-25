@@ -1,5 +1,5 @@
 <!-- ================= HERO ================= -->
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com" width="30"> I'm Headangelly Huy</h1>
+<h1 align="center" style="margin-bottom:4px;">Hey <img src="https://media.tenor.com/92MplgQwb80AAAAM/cat-meme-wave-emoji.gif" width="20" height="20" alt="waving cat"> I'm Headangelly Huy</h1>
 
 
 <h3 align="center" style="margin-top:0;">Software Developer</h3>
