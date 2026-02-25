@@ -36,22 +36,6 @@
 
 ---
 
-## 📊 GitHub Activity
-<!-- <p align="center" style="margin:6px 0;">
-  <img
-    src="https://streak-stats.demolab.com/?user=Angelly234&theme=nightowl&hide_border=true"
-    width="48%"
-  />
-</p> -->
-
-<p align="center" style="margin:6px 0;">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Angelly234&theme=nightowl&no-frame=true&no-bg=true&margin-w=4"
-  />
-</p>
-
----
-
 ## 🛠️ Tech Stack (Compact)
 
 ### Programming
